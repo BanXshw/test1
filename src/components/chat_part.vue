@@ -65,7 +65,7 @@
  
        </div>
        <div class="modal-body" style="justify-content: center;">
-         <button type="button" class="btn btn-" data-bs-dismiss="modal" style="background-color: #959595;color: #fff; margin-left: 40px; margin-right: 40px; justify-items: left;">Close</button>
+         <button type="button" class="btn btn-" data-bs-dismiss="modal" style="background-color: #959595;color: #fff; margin-left: 40px; margin-right: 40px; justify-items: center;">Close</button>
          <button type="button" class="btn " style="background-color: #575CD4;color: #fff;margin-left: 40px; margin-right: 25px; ">Yes</button>
 
     </div>
