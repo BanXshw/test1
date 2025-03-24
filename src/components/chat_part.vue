@@ -59,7 +59,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body" style="justify-items:center; background-color:#fff;">
-        <i class="bi bi-trash" style="color: #FF0000;size: 50px;"></i>
+        <i class="bi bi-trash" style="color: #FF0000; size: 200px;"></i>
        <p style="font-size: larger;"> delete conversation</p> 
         <h5 style="font-size:17px;"><small>Once you sure to delete this conversation , you will not be able to undo this action</small></h5>  
  
@@ -140,12 +140,12 @@
  
    <div> 
     <div>
-   <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+   <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#block">
   <i class="bi bi-mic"></i>
 </button>
 
 <!-- Modal -->
-<div class="modal fade" id="Backdrop" data-bs-backdrop data-bs-keyboard="false" tabindex="-1" aria-labelledby="BackdropLabel" aria-hidden="true">
+<div class="modal fade" id="block" data-bs-keyboard="false" tabindex="-1" aria-labelledby="BackdropLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-body">
