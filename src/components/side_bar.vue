@@ -10,7 +10,7 @@
   <a href="#" class="list-group-item list-group-item-action border-0 rounded-3"><i class="bi bi-box"></i> Orders</a>
   <a href="#" class="list-group-item list-group-item-action border-0 rounded-3"> <i class="bi bi-people"></i> Passengers</a>
   <a href="#" class="list-group-item list-group-item-action border-0 rounded-3"> <i class="bi bi-car-front"></i> Captains</a>
-  <a href="#" class="list-group-item list-group-item-action border-0 rounded-3"> <i class="bi bi-car-front"></i> Categories</a>
+  <a href="#" class="list-group-item list-group-item-action border-0 rounded-3"> <i class="bi bi-card-checklist"></i> Categories</a>
   <hr>
   <a href="#" class="list-group-item list-group-item-action border-0 rounded-3"> <i class="bi bi-card-list"></i>  Settlements  </a>
   <hr>
@@ -24,7 +24,7 @@
 <ul class="dropdown-menu">
   <li><a class="dropdown-item" href="#">Action</a></li>
   <li><a class="dropdown-item" href="#">Action two</a></li>
-  <li><a class="dropdown-item" href="#">Action three</a></li>
+  
 </ul>
 </div>
   <a href="#" class="list-group-item list-group-item-action border-0 rounded-3"><i class="bi bi-translate"></i> Translation</a>

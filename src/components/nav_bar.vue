@@ -1,10 +1,11 @@
 <template>
 
-    <nav class="navbar border-bottom border-body px-3" style="height: 66px; " >
-      <div class="container-fluid justify-conten d-flex" style=" align-items: center;">
+    <nav class="navbar" style="height: 66px; " >
+      <div class="container-fluid justify-content d-flex" style=" align-items: center;">
+        
         <!-- first part  -->
-         <div class="d-flex align-items-center">
-          <div class="container-fluid">
+         <div class="d-flex align-items-center" style="align-items: start;">
+          <div class="">
   
           
           <button class="btn  border-0 "><i class="bi bi-search"></i></button>
@@ -15,7 +16,7 @@
     
   
       <!--  part two icon -->
-      <div>
+      <div style="align-items: end;">
         <button class="btn  border-0  rounded-5"><i class="bi bi-moon"></i></button>
         
         <button class="btn border-0 rounded-5"><i class="bi bi-bell"></i></button>
@@ -27,9 +28,8 @@
   </button>
         <div class="dropdown-center">
   <ul class="dropdown-menu">
-    <li><a class="dropdown-item" href="#">Action</a></li>
-    <li><a class="dropdown-item" href="#">Action two</a></li>
-    <li><a class="dropdown-item" href="#">Action three</a></li>
+    <li><a class="dropdown-item" href="#"><img src="@/assets/mathnav.svg"> Mathwe Anderson</a></li>
+    <li><a class="dropdown-item" href="#"><img src="@/assets/mathnav.svg"> Mathwe Anderson</a></li>
   </ul>
 </div>
       </div>
