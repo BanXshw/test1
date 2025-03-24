@@ -9,7 +9,7 @@
                 <span> Mathwe Anderson</span>
                 <br>
                <span><small>Marketing Director</small></span> </div>
-               <div ><i class="bi bi-three-dots-vertical " style="align-items:end;"></i></div>
+               <div ><i class="bi bi-three-dots-vertical " style="align-items:end;margin-left: 100px; margin-top: 80px;"></i></div>
              
                 </li>
                 </div>
@@ -33,7 +33,7 @@
         <div class="dropdown-center">
   <ul class="dropdown-menu">
     <li><a class="dropdown-item" style="color: #98A4AE;" href="#"> stor</a></li>
-    <li><a class="dropdown-item" style=" color: #98A4AE;" href="#"> stor</a></li>
+    <li><a class="dropdown-item" style=" color: #98A4AE;" href="#"> </a></li>
     <li><a class="dropdown-item" style=" color: #98A4AE;" href="#"></a></li>
   </ul>
 </div>
@@ -47,7 +47,7 @@
                <span><small>You: Yesterday was great...</small></span>
               </div>
 
-               <div class="time " style="align-items:end;"> <span><small>15 minutes</small></span></div>
+               <div class="time " style="align-items:end; margin-left: 10px;"> <span><small>15 minutes</small></span></div>
               
                 </li> 
                 
@@ -56,14 +56,14 @@
                    <div style="text-align: start;align-items: center;">  Bianca Anderson<br>
                <span><small>Nice looking dress you...</small></span></div>
               
-              <div class="time " style="align-items:end;"> <span><small>15 minutes</small></span></div>  
+              <div class="time " style="align-items:end;margin-left: 24px;"> <span><small>15 minutes</small></span></div>  
             </li>
             <li class="list-group-item list-group-item-action  d-flex border-0" style="background-color:#fff;color: #29343D;outline: #29343D;width: 350px; " >
                 <div><img src="@/assets/Andrew Johnson.svg" style="align-items: center;"><img src="@/assets/Busy-.svg" style="padding-top: 25px;padding-right:10px ;"></div>  
                    <div style="text-align: start;"> Andrew Johnson<br>
                <span><small>Sent a photo</small></span></div>
               
-              <div class="time " style="align-items:end;"> <span><small>15 minutes</small></span></div>  
+              <div class="time " style="align-items:end;margin-left: 70px;"> <span><small>15 minutes</small></span></div>  
             </li>
 
                 <li class="list-group-item list-group-item-action  d-flex border-0" style="background-color:#fff;color: #29343D;outline: #29343D;width: 350px; ">
@@ -71,7 +71,7 @@
                 <div style="text-align: start;">  Mark Strokes<br>
                <span><small>Lorem ispusm text sud...</small></span>
               </div>
-              <div class="time " style="align-items:end;"> <span><small>15 minutes</small></span></div>
+              <div class="time " style="align-items:end;margin-left: 22px;"> <span><small>15 minutes</small></span></div>
                 </li>
 
                 <li class="list-group-item list-group-item-action  d-flex border-0" style="background-color:#fff;color: #29343D;outline: #29343D;width: 350px; " >
@@ -79,7 +79,7 @@
                <div style="text-align: start;">  Mark, Stoinus & Rishvi..<br>
                <span><small>Lorem ispusm text ...</small></span>
               </div>
-              <div class="time " style="align-items:end;"> <span><small>15 minutes</small></span></div>
+              <div class="time " style="margin-left: 16px;"> <span><small>15 minutes</small></span></div>
                 </li>
 
                 <li class="list-group-item list-group-item-action  d-flex border-0" style="background-color:#fff;color: #29343D;outline: #29343D; width: 350px;" >
@@ -87,7 +87,7 @@
                <div style="text-align: start;">  Bianca Anderson<br>
                <span><small>Nice looking dress you...</small></span>
               </div>
-              <div class="time " style="align-items:end;"> <span><small>15 minutes</small></span></div>
+              <div class="time " style="margin-left: 23px;"> <span><small>15 minutes</small></span></div>
                 </li>
              </ul>
 

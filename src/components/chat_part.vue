@@ -153,7 +153,7 @@
       </div>
       <div class="modal-body" style="justify-items:center; background-color:#fff;">
         <i class="bi bi-unlock"></i>
-       <p style="font-size: medium;">  unlock user</p> 
+       <p style="font-size: medium;"> unlock user</p> 
         <h5>you are going to unblock this user , are you sure?</h5>  
  
        </div>
